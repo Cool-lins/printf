@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * get_flags - Calculates active flags
@@ -9,7 +10,6 @@
 
 int get_flags(const char *format, int *i)
 {
-
 /* - + 0 # ' ' */
 
 /* 1 2 4 8  16 */
