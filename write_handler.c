@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdio.h>
-
+#include <unistd.h>
+#include <stdarg.h>
 /* WRITE HANDLE */
 
 /**
